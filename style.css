@@ -1,0 +1,26 @@
+body {
+	padding-top: 50px;
+}
+
+.notification {
+	width: 100%;
+	height: 30px;
+	border: 1px solid #aeaeae;
+	position: fixed;
+	top: 0px;
+}
+
+.waiting {
+	background-color: #feef6d;
+	color: white;
+}
+
+.success {
+	background-color: #16c98d;
+	color: white;
+}
+
+.error {
+	background-color: #fa5e5b;
+	color: white;
+}
